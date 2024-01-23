@@ -5,8 +5,9 @@ Esse é o meu perfil e portifólio do GitHub! 👋
 - 🌱 Atualmente estou aprendendo sobre Data science e aplicações em Redes com inteligência computacional. 
 - 👯 Estou procurando colaborar em projetos interessantes.
   
-
-[![Meu status no GitHub](https://github-readme-stats.vercel.app/api?username=jps-pereira&show_icons=true&theme=dark)](https://github.com/jps-pereira)
+<p align="right">
+  <img src="https://github-readme-stats.vercel.app/api?username=jps-pereira&show_icons=true&theme=radical" alt="Meu status no GitHub" />
+</p>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
