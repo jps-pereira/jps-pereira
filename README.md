@@ -5,9 +5,7 @@ Esse é o meu perfil e portifólio do GitHub! 👋
 - 🌱 Atualmente estou aprendendo sobre Data science e aplicações em Redes com inteligência computacional. 
 - 👯 Estou procurando colaborar em projetos interessantes.
   
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jps-pereira&show_icons=true&theme=radical" alt="Meu status no GitHub" />
-</p>
+[![Meu status no GitHub](https://github-readme-stats.vercel.app/api?username=jps-pereira&show_icons=true&theme=dark)](https://github.com/jps-pereira)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -21,7 +19,6 @@ Esse é o meu perfil e portifólio do GitHub! 👋
   <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   <img align="center" alt="" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
          
 </div>
 
