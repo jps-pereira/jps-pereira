@@ -1,6 +1,6 @@
 ## Olá, eu sou o João Pedro Pereira
 
-Atualmente estou aprendendo sobre Data science e aplicações em Redes com ML. Esse é o meu perfil e portifólio do GitHub! 👋
+Estudo e trabalho em Data science e aplicações em Redes com ML, e esse é o meu perfil, bem vindo 👋
   
 [![Meu status no GitHub](https://github-readme-stats.vercel.app/api?username=jps-pereira&show_icons=true&theme=dark)](https://github.com/jps-pereira)
 
