@@ -2,7 +2,7 @@
 
 Estudo e trabalho em Data science e aplicações em Redes com ML, e esse é o meu perfil, bem vindo 👋
   
-[![Meu status no GitHub](https://github-readme-stats.vercel.app/api?username=jps-pereira&show_icons=true&theme=dark)](https://github.com/jps-pereira)
+[![Meu status no GitHub](https://github-readme-stats.vercel.app/api?username=jps-pereira&show_icons=true&theme=tokyonight)](https://github.com/jps-pereira)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
