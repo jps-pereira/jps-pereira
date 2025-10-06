@@ -1,6 +1,6 @@
 ## Olá, eu sou o João Pedro Pereira
 
-Estudo e trabalho em Engenharia de Telecomunicações e aplicações em Redes com ML, e esse é o meu perfil, bem vindo 👋
+A Bachelor's degree in Telecommunications Engineering from the Fluminense Federal University (UFF) and is currently pursuing a Master's degree in Telecommunications Engineering at the same institution. His main research interests include Digital Signal Processing, Machine Learning, Computer Networks, and Artificial Intelligence, with an emphasis on innovative solutions and practical applications in communication systems and data analysis.
   
 [![Meu status no GitHub](https://github-readme-stats.vercel.app/api?username=jps-pereira&show_icons=true&theme=tokyonight)](https://github.com/jps-pereira)
 
